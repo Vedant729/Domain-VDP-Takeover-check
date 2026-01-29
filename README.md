@@ -1,2 +1,2 @@
 # Domain-VDP-Takeover-check
-This domain is now being hosted by Vedant
+This domain is now being hosted by Vedant now
